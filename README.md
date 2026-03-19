@@ -1,6 +1,8 @@
 # Business Operations Dashboard
 
-A Python-based business operations dashboard that analyzes sales data, generates key performance insights, and visualizes trends using charts.
+## Overview
+
+A Python-based dashboard that analyzes sales data, generates key business insights, and visualizes performance trends using charts.
 
 ## Features
 
