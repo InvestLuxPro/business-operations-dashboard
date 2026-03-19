@@ -17,10 +17,28 @@ A Python-based business operations dashboard that analyzes sales data, generates
 - Top-performing product
 - Revenue trend over time
 
+## How It Works
+
+1. Loads sales data from a CSV file
+2. Processes data using Pandas
+3. Calculates key business metrics
+4. Generates visualizations using Matplotlib
+5. Displays results in the terminal and saves charts as images
+
 ## Example Output
 
 ![Dashboard Output](Revenue-by-Region.png)
 ![Dashboard Output](Revenue-Over-Time.png)
+
+## Project Structure
+
+business-operations-dashboard/
+├── data/
+├── analysis.py
+├── charts.py
+├── dashboard.py
+├── requirements.txt
+└── README.md
 
 ## Technologies Used
 
