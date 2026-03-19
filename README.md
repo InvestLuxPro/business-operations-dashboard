@@ -10,6 +10,13 @@ A Python-based business operations dashboard that analyzes sales data, generates
 - Identifies the top-performing product
 - Creates charts for business insights
 
+## Business Insights
+
+-Total revenue across all sales
+-Highest-performing region
+-Top-performing product
+-Revenue trend over time
+
 ## Example Output
 
 ![Dashboard Output](dashboard_output.png)
