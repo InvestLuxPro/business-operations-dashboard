@@ -32,14 +32,17 @@ A Python-based business operations dashboard that analyzes sales data, generates
 
 ## Project Structure
 
+```text
 business-operations-dashboard/
 ├── data/
+│   └── sales_data.csv
 ├── analysis.py
 ├── charts.py
 ├── dashboard.py
 ├── requirements.txt
-└── README.md
-
+├── README.md
+└── .gitignore
+```
 ## Technologies Used
 
 - Python
