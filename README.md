@@ -20,7 +20,7 @@ A Python-based business operations dashboard that analyzes sales data, generates
 ## Example Output
 
 ![Dashboard Output](Revenue-by-Region.png)
-![Dashboard Output](dashboard_output2.png)
+![Dashboard Output](Revenue-Over-Time.png)
 
 ## Technologies Used
 
