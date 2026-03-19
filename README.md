@@ -28,6 +28,13 @@ A Python-based business operations dashboard that analyzes sales data, generates
 - Pandas
 - Matplotlib
 
+## Future Improvements
+
+- interactive filters by region or product
+- support for larger datasets
+- export summary results to CSV
+- Streamlit web dashboard version
+
 ## Installation
 
 ```bash
